@@ -199,9 +199,7 @@ body {
     transition: 0.3s;
 }
 
-.projetos .btn-mostra-projetos.remover {
-    display: none;
-}
+
 
 @keyframes gradient-animation {
     0% {
